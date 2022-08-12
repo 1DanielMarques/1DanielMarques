@@ -1,13 +1,13 @@
 ## Olá! Eu sou o Daniel Marques
 
 - 🔭 1º ano Engenharia de Software UNIFIL
-- 🌱 Estudando JAVA 
+- 🌱 Desenvolvedor JAVA 
 - 🔥 Back-End
 
 <div>
   <a href="https://github.com/mDanielSE">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=1DanielMarques&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mDanielSE&layout=compact&langs_count=168&theme=chartreuse-dark"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1DanielMarques&layout=compact&langs_count=168&theme=chartreuse-dark"/>
 
 </div>
 
