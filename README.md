@@ -1,6 +1,5 @@
 ## Olá! Eu sou o Daniel Marques
 
-- 🔭 1º ano Engenharia de Software UNIFIL
 - 🌱 Desenvolvedor JAVA 
 - 🔥 Back-End
 
